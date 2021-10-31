@@ -150,6 +150,7 @@ ylabel('Amplitude');
 title('Plot-6: End 1024 samples FFT');
 grid;
 
+x = y
 
 
 
